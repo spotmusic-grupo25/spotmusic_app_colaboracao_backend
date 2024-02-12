@@ -1,4 +1,4 @@
-# Microsserviço Playlist
+# Microsserviço Colaboraçãp
 
 <h3>Olá, somos membros do grupo 25</h3>
 
@@ -14,7 +14,7 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
           
 <hr>
 <h3>Objetivo:</h3>
-<h5>Aplicação backend para o módulo de playlist</h5>
+<h5>Aplicação backend para o módulo de colaboração</h5>
 
 <hr>
 <h3>Descrição da estrutura da aplicação:</h3>
@@ -38,8 +38,7 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
         <li>Feature/__nome_da_funcionalidade - branch para desenvolvimento e testes locais de correção de bugs
 </ul>
 
-<<<<<<< HEAD
+
 ![alt text](image.png)
-=======
-![alt text](image.png)
->>>>>>> d8ed39e992c97d4213188eac043e90b638424ee1
+
+
